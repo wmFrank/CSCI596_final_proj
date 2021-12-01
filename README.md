@@ -2,7 +2,7 @@
 Ming Wang, Zhengxie Hu
 
 ## 1.Introduction
-The goal of our project is to use D-MPNN to predict molecular property which will accelerate the development of new chemical product. 
+The goal of our project is to use Directed MPNN (D-MPNN) to predict molecular property which will accelerate the development of new chemical product. 
 
 ## 2.Dataset
 - We used scraped data from PoLyInfo database by Japan National Institute for Materials Science.
@@ -10,7 +10,8 @@ The goal of our project is to use D-MPNN to predict molecular property which wil
 ![image](polyinfo_result.png)
 
 ## 3.Objective
-- Apply D-MPNN to this new dataset to predict some property of 
+- Apply D-MPNN to this new dataset to predict some property of polymers.
+paper link: [https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237)
 ![D-MPNN](D-MPNN.jpeg)
 
-- Visualize some property of polymers during the training process via t-SNE to reveal some pattern.
+- Visualize the result via t-SNE to reveal some relationships between polymers.
