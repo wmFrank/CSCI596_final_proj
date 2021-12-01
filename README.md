@@ -6,7 +6,7 @@ The goal of our project is to use Directed MPNN (D-MPNN) to predict molecular pr
 
 ## 2.Dataset
 - We used scraped data from PoLyInfo database by Japan National Institute for Materials Science.
-- We extracted the rheological property (melt viscosity) and electrical property (electrical dispersion) and use it as input to the D-MPNN. 
+- We extracted the rheological property (melt viscosity) and electrical property (dielectric dispersion) and use it as input to the D-MPNN. 
 ![image](polyinfo_result.png)
 
 ## 3.Objective
