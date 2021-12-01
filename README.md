@@ -11,6 +11,7 @@ The goal of our project is to use Directed MPNN (D-MPNN) to predict molecular pr
 
 ## 3.Objective
 - Apply D-MPNN to this new dataset to predict some property of polymers.
+
 paper link: [https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237)
 ![D-MPNN](D-MPNN.jpeg)
 
