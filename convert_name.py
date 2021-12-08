@@ -1,4 +1,4 @@
-# Load the polyinfo_viscosity.csv rows with 'polymer name|viscosity'
+# Load the polyinfo_viscosity.csv rows with 'name|viscosity'
 # and run this script, the output will be in processed_viscosity.csv
 
 from urllib.request import urlopen
