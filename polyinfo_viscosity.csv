@@ -1,0 +1,291 @@
+SMILES, melt viscosity
+polyethylene|16.3
+polypropylene|87
+polybutylene|3120
+polypentylene|110
+polyhexylene|369
+polyisobutylene|75
+polyoctene|47600
+polyoctadec-1-ene|1450
+polystyrene|1.41
+polyvinyls|30000
+poly(4-hydroxystyrene)|3000
+poly(2-vinylpyridine)|40000
+poly(methyl vinyl ether)|180
+poly(vinyl acetate)|110000
+poly(butyl acrylate)|10
+poly(methyl methacrylate)|1000
+poly(ethyl methacrylate)|320
+poly(butyl methacrylate)|6420
+poly(isobutyl methacrylate)|4600
+poly(tert-butyl methacrylate)|0.0033
+poly(vinyl chloride)|832
+poly(vinylidene fluoride)|22000
+poly(tetrafluoroethylene)|1
+1,2-polybuta-1,3-diene|374
+polyformaldehyde|150
+poly(ethylene oxide)|0.06
+poly(propane-1,2-diol)|7.4
+poly[2-(chloromethyl)oxirane]|110
+poly(2,6-dimethylphenol)|1800
+poly(oxydiethylene sebacate)|0.4
+poly[(triethylene glycol)-alt-(decanedioic acid)]|0.3
+polyethersulfone|220000
+poly(oxydiethylene succinate)|10
+poly[(2,2'-oxydiethanol)-alt-(adipic acid)|3.3
+poly[(bisphenol A)-co-epichlorohydrin]|1500
+poly(vinyl butyral)|1200000
+polyetheretherketone|630
+poly{(bisphenol A)-alt-[1,4-bis(4-chlorophenylcarbonyl)benzene]}|34200
+poly{[4,4'-(decane-1,10-diyldioxy)diphenol]-alt-(terephthaloyl dichloride)}|16
+poly(5-hydroxy-3-oxavaleric acid)|7000
+poly(ether ketone ketone)|5
+poly[(2-methylhydroquinone)-alt-(4,4'-difluorobenzophenone)]|1920
+poly{[3,3'-(biphenyl-4,4'-diyldioxy)dianiline]-alt-(pyromellitic anhydride)}|100
+poly(glycidyl azide)|2.4
+poly(p-phenylene sulfide)|480
+poly(4,4'-thiodiphenylene carbonate)|2500
+poly(ethylene succinate)|1
+poly[(butane-1,4-diol)-alt-(succinic acid)]|1213
+poly[(nonane-1,9-diol)-alt-(nonanedioic acid)]|5
+poly[(decane-1,10-diol)-alt-(nonanedioic acid)]|190
+poly[(ethylene glycol)-alt-(decanedioic acid)]|0.3
+poly[(propane-1,3-diol)-alt-(decanedioic acid)]|3
+poly[(butane-1,4-diol)-alt-(decanedioic acid)]|0.6
+poly(ethylene terephthalate)|175
+poly(ethylene isophthalate)|0.038
+poly[(butane-1,4-diol)-alt-(terephthalic acid)]|294
+poly[(hexane-1,6-diol)-alt-(terephthalic acid)]|100
+poly[(terephthalic acid)-alt-(decane-1,10-diol)]|100
+poly(bisphenol A isophthalate)|27000
+poly(ethylene naphthalene-2,6-dicarboxylate)|920
+poly(glycolic acid)|1500
+poly(epsilon-caprolactone)|40.5
+poly[(propane-1,3-diol)-alt-(terephthalic acid)]|170
+poly(3-hydroxybutyric acid)|800
+poly(lactic acid)|980
+poly[(2,2,3,3,4,4-hexafluoropentane-1,5-diol)-alt-(adipic acid)]|137
+poly(pentamethylene sebacate)|2
+poly[(2,2,3,3,4,4-hexafluoropentane-1,5-diol)-alt-(3-perfluoropropylglutaryl chloride)]|3.3
+poly[(2,2,3,3,4,4,5,5-octafluorohexane-1,6-diol)-alt-(3-perfluoropropylglutaryl chloride)]|4.5
+poly[(2,2,3,3,4,4-hexafluoropentane-1,5-diol)-alt-(glutaryl dichloride)]|6.1
+poly[(2,2,3,3,4,4,5,5-octafluorohexane-1,6-diol)-alt-(glutaryl dichloride)]|1.7
+poly-hexafluoropentylene perfluoroadipate|2.5
+poly-octafluorohexylene adipate|120
+poly-octafluorohexylene perfluoroadipate|1.1
+poly(hexano-6-lactam)|740
+poly[(hexane-1,6-diamine)-alt-(adipic acid)]|140
+poly(11-aminoundecanoic acid)|1660
+poly(dodecano-12-lactam)|1600
+poly[(N,N'-dibutylhexane-6-diamine)-alt-(hexafluoropentanedioic acid)]|16
+poly[(N,N'-dibutyl-2,2,3,3,4,4-hexafluoropentane-1,5-diamine)-alt-(adipc acid)]|0.4
+poly[(N,N'-diethylhexane-6-diamine)-alt-(hexafluoropentanedioic acid)]|7.2
+poly[(N,N'-diethyl-2,2,3,3,4,4-hexafluoropentane-1,5-diamine)-alt-(adipc acid)]|3.7
+poly[(decane-1,10-diamine)-alt-(decanedioic acid)]|8764
+poly[(N,N'-diisopropylhexamethylenediamine)-alt-(hexafluoroglutaryl dichloride)]|32
+poly[(N,N'-diisopropyl-2,2,3,3,4,4-hexafluoropentane-1,5-diamine)-alt-(adipoyl dichloride)]|2.5
+poly[(N,N'-dimethylhexamethylenediamine)-alt-(hexafluoroglutaryl dichloride)]|8.7
+poly[(N,N'-dimethyl-2,2,3,3,4,4-hexafluoropentane-1,5-diamine)-alt-(adipoyl dichloride)]|3.6
+poly[piperazine-alt-(sebacic acid)]|83
+poly[(m-phenylenediamine)-alt-(adipic acid)]|470
+poly{[4,4'-(4,4-dimethylheptane-1,7-diyl)dianiline]-alt-(pyromellitic anhydride)}|860
+poly{[4,4'-(3-methylheptane-1,7-diyl)dianiline]-alt-(pyromellitic anhydride)}|600
+poly[(nonane-1,9-diamine)-alt-(pyromellitic anhydride)]|300000
+poly{(4,4'-oxydianiline)-alt-[4,4'-oxybis(phthalic anhydride)]}|7800
+poly(3,3'-carbonyldiphenylene-3,3',4,4'-benzophenonetetracarboxydiimide)|4830
+poly[1,3-phenylenedi(oxyethylene)oxy-1,3-phenylene 3,3',4,4'-benzophenonetetracarboxydiimide]|300000
+poly((m-phenylenediamine)-alt-{5,5'-[(1-methylethane-1,1-diyl)bis(4,1-phenyleneoxy)]bis(isobenzofuran-1,3-dione)})|4770
+poly[(3,4'-oxydianiline)-alt-(biphenyl-3,3',4,4'-tetracarboxylic anhydride)]|1200
+poly[(hexane-1,6-diol)-alt-phosgene]|3.4
+poly[(4,4'-methylenediphenol)-alt-phosgene]|2300
+poly(bisphenol A carbonate)|47
+2,2'-dimethylbisphenol A polycarbonate|2300
+poly{[2,2'-dimethyl-4,4'-(cyclohexane-1,1-diyl)diphenol]-alt-phosgene}|16000
+poly(3,3',5,5'-tetramethylbisphenol A carbonate)|5500000000000000
+poly[(butne-1,4-diol)-alt-phosgene]|4.8
+poly(decamethylene carbonate)|2.3
+poly[(pentane-1,5-diol)-alt-phosgene]|4.6
+poly(ethyleneimine)|830
+poly(diethylsiloxane)|0.16
+poly(dimethylsiloxane)|14.8
+poly(trifluoropropyl methyl siloxane)|1.8
+poly(phenyl methyl siloxane)|0.11
+poly(diphenylsiloxane)|8.2
+poly(methyl ethyl siloxane)|0.44
+poly(dipropoxyphosphazene)|4.6
+cis-1,4-poly(2-methyl-1,3-pentadiene)|150000
+poly[(3,3'-oxydipropanol)-alt-(sebacic acid)]|0.4
+poly[2-(trifluoromethyl)-2,3,3-trifluorooxirane]|0.26
+poly[oxy(1,1,2,2,3,3-hexafluoropropane-1,3-diyl)]|0.174
+poly{[bis(4-fluorophenyl) 1,4-phenylene diketone]-alt-[2-phenyl-4,5-bis(4-hydroxyphenyl)imidazole]}|260000
+poly{[1,3-bis(4-fluorobenzoyl)benzene]-alt-[2-phenyl-4,5-bis(4-hydroxyphenyl)imidazole]}|17000
+poly{[4,4'-(hexane-1,6-diyldioxy)diphenol]-alt-(terephthaloyl dichloride)}|8
+poly([2-(phenylsulfonyl)hydroquinone]-alt-{4,4'-[decane-1,10-diyldioxy]dibenzoic acid})|7100
+dextran|1200
+poly[(butane-1,3-diol)-alt-(sebacic acid)]|0.7
+poly{[4,4'-(1,3-phenylenedioxy)dianiline]-alt-(biphenyl-3,3':4,4'-tetracarboxylic dianhydride)]|4300
+poly{[3,3'-oxybis(phthalic acid)1,2:1',2'-dianhydride]-alt-(4,4'-oxydianiline)}|22000
+poly{[4,5'-oxybis(benzo[c]furan-1,3-dione)]-alt-(4,4'-oxydianiline)}|670
+poly{(1,3-dioxoisoindoline-2,5-diyl)carbonyl(1,3-dioxoisoindoline-5,2-diyl)[3-(trifluoromethyl)-1,4-phenylene]oxy-1,4-phenyleneoxy[2-(trifluoromethyl)-1,4-phenylene]}|91
+poly(trimethylene carbonate)|30
+poly(oxycarbonyloxynonane-1,9-diyl)|2.4
+polyaniline|2100
+poly(acrylonitrile-co-styrene)|2142
+poly[ethene-co-(oct-1-ene)]|10000
+poly[ethene-co-(prop-1-ene)]|30000
+poly[ethene-co-(vinyl acetate)]|10000
+poly[ethene-co-(vinyl alcohol)]|230
+poly{[(ethylene glycol)-alt-(terephthalic acid)]-co-[(cyclohexane-1,4-dimethanol)-alt-(terephthalic acid)]}|600
+poly[(ethylene glycol)-alt-(terephthalic acid)]-co-[(ethylene glycol)-alt-(isophthalic acid)]|890
+poly{[(butane-1,4-diol)-alt-(adipic acid)]-co-[(butane-1,4-diol)-alt-(terephthalic acid)]}|32000
+polybutadiene-graft-poly(acrylonitrile-co-styrene)|300
+poly(styrene-co-butadiene)|179000
+poly[ethene-co-(5-ethylidene-2-norbornene)-co-(prop-1-ene)]|100000
+poly[(6-hydroxy-2-naphthoic acid)-co-(4-aminophenol)-co-(terephthalic acid)]|830
+poly[(2,2,3,3,4,4-hexafluoropentane-1,5-diol)-alt-(isophthalic acid;adipic acid)]|32
+poly((2,2,3,3,4,4-hexafluoropentane-1,5-diol)-alt-{(isophthalic acid);[(2E)-but-2-enedioic acid];adipic acid})|33
+poly{[2,2-dimethyl-1,3-propanediol;2,2-bis(4-hydroxyphenyl)propane]-alt-(isophthalic acid)}|8600
+poly{[2-sulfanylethanol;2,2-bis(4-hydroxyphenyl)propane]-alt-(isophthalic acid)}|14000
+poly[(4-hydroxybenzoic acid)-co-(6-hydroxy-2-naphthoic acid)]|150
+poly[ethylene-co-(but-1-ene)]|25000
+{polystyrene-block-poly[ethene-co-(1-butene)]-block-polystyrene}-graft-poly(maleic anhydride)|2300
+poly[ethene-co-(pent-1-ene)]|14000
+poly[ethylene-co-(hex-1-ene)]|14000
+poly[ethylene-co-(1-heptene)]|140000
+poly[ethene-co-(methyl acrylate)]|1600
+poly[ethylene-co-(butyl acrylate)]|5300
+poly[(4-methyl-1-pentene)-co-(1-decene)]|16300
+polybutadiene|14000
+poly(butadiene-co-polystyrene)|150
+polybutadiene-graft-poly(acrylonitrile-co-styrene)|1200000
+poly[acrylonitrile-co-(methyl acrylate)-co-butadiene]|2000
+poly(1-ethenylethylene/but-2-ene-1,4-diyl)|12.7
+branch-polystyrene-nu-divinylbenzene|2800
+poly[styren-co-(4-sulfostyrene)]|11000
+poly[acrylonitrile-co-(alpha-methylstyrene)]|12000
+poly[(1,1-difluoroethene)-co-(1,1,2,3,3,3-hexafluoroprop-1-ene)]|1600
+poly[(1,1,2,2-tetrafluoroethene)-co-(1,1,2,3,3,3-hexafluoroprop-1-ene)]|50000
+poly[oxy(difluoromethylene)/oxy(1,1,2,2-tetrafluoroethylene)]|0.27
+oly{[4,4'-(1-methylethane-1,1-diyl)diphenol;2,2'-oxydiethanol]-alt-(isophthaloyl dichloride)}|3700
+poly{[2,2-dimethyl-4,4'-(1-methylethane-1,1-diyl)diphenol;2,2'-oxydiethanol]-alt-(isophthaloyl dichloride)}|1100
+poly[(ethylene terephthalate)-co-(oxydiethylene terephthalate)]|20
+poly{[(diphenyl ether)-alt-(terephthalic acid)]-co-[(diphenyl ether)-alt-(isophthalic acid)]}|500
+poly[(cyclohexane-1,4-diol;decane-1,10-diol)-alt-(adipic acid)]|36
+poly[(decane-1,10-diol)-alt-(isophthalic acid;adipic acid)]|42
+poly[(decamethylene isophthalate)-ran-(decamethylene sebacate)]|19
+poly[(cyclohexane-1,4-diol;decane-1,4-diol)-alt-(sebacic acid)]|24
+poly{[poly(ethylene terephthalate)]-co-(p-hydroxybenzoic acid)}|250
+poly[(propane-1,3-diol;bisphenol A)-alt-(terephthalic acid)]|190000
+poly[(propane-1,3-diol;bisphenol A)-alt-(terephthalic acid)]|8700
+poly{[4,4'-(propane-2,2-diyl)diphenol]-alt-(adipic acid;isophthalic acid)}|9600
+poly[(3-hydroxybutyric acid)-co-(gamma-butyrolactone)]|30000
+poly[(3-hydroxy-3-methylpropionic acid)-co-(epsilon-caprolactone)]|34000
+poly[(lactic acid)-co-(epsilon-caprolactone)]|2.3
+poly[(2,2,3,3,4,4-hexafluoropentane-1,5-diol)-alt-(terephthalic acid;adipic acid)]|14.77
+poly{[piperazine;1,10-bis(1-piperazino)decane]-alt-(sebacic acid)}|400
+poly{oxy(difluoromethylene)/oxy[1,1,2-trifluoro-2-(trifluoromethyl)ethylene]}|0.25
+poly{4,4'-bis(acetyloxy)biphenyl-alt-[4,4'-ethylenebis(oxyethyleneoxy)dibenzoic acid;1,3-dioxo-2-(10-carboxydecyl)isoindoline-5-carboxylic acid}|100
+poly{[4,4'-bis(acetyloxy)biphenyl]-alt-[4,4'-ethylenebis(oxyethyleneoxy)dibenzoic acid;2,2'-dodecamethylenebis(1,3-dioxoisoindoline-5-carboxylic acid)]}|70
+poly{[4,4'-bis(acetyloxy)biphenyl]-alt-[4,4'-ethylenebis(oxyethyleneoxy)dibenzoic acid:1,1',3,3'-tetraoxo-2,2'-decamethylenebis(isoindoline-5-carboxylic acid)]}|600
+poly[oxy(dimethylsilanediyl)/oxy(methyl{3-[4-(4-cyanophenoxycarbonyl)phenoxy]propyl}silanediyl)]|20
+polyisoprene|11.7
+poly{[dichloro(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)(methyl)silane]-co-[dichloro(methyl)vinylsilane]-co-water}|40
+poly{1-(methoxycarbonyl)-1-methylethylene/[1-(1,3-dicarboxypropyl)-3,5-dimethyl-2,6-dioxopiperidine-3,5-diyl]methylene}|900
+poly{[4,4'-(hexane-1,6-diyldioxy)diphenol;4,4'-(decane-1,10-diyldioxy)diphenol]-alt-(terephthaloyl dichloride)}|4.5
+poly[styrene-co-(sodium methacrylate)]|5000000
+poly{[4-(4-hydroxyphenyl)-2,3-phthalazin-1-one]-alt-[bis(4-fluorophenyl)ketone;bis(4-fluorophenyl)sulfone]}|2600000
+poly[(D-lactic acid)-co-(L-lactic acid)]|2200
+poly[(1,3-butadiene)|9600
+poly[(vinyl alcohol)-co-(vinyl acetate)-co-(vinyl butyral)]|120
+poly{[piperazine-alt-(pimelic acid)]-co-[piperazine-alt-(sebacic acid)]}|21.5
+poly[(3,3'-carbonyldiphenylene 3,3',4,4'-benzophenonetetracarboxydiimide)-co-[3,3'-(m-phenylenedioxy)diphenylene 3,3',4,4'-benzophenonetetracarboxydiimide]]|49000
+poly{[6-fluoro-3-(4-hydroxyphenyl)-2-phenylquinoxaline]-co-[6-fluoro-2-(4-hydroxyphenyl)-3-phenylquinoxaline]}|100000
+poly{oxy(difluoromethylene)/oxy(1,1,2,2-tetrafluoroethylene)/oxy[1,1,2-trifluoro-2-(trifluoromethyl)ethylene]}|1.7
+poly[(piperazine isophthalamide)-co-[piperazine-alt-(sebacic acid)]]|8.5
+poly{[piperazine-alt-(sebacic acid)]-co-(hexamethylene sebacamide)}|2.5
+poly[(hydrogenmethylsiloxane)-co-octamethylcyclotetrasiloxane]|0.0377
+poly[ethene-co-(dec-1-ene)]|120
+poly[(piperazine adipamide)-co-[piperazine-alt-(sebacic acid)]]|11
+(dec-1-ene)-added poly(hydrogenmethylsiloxane/dimethylsiloxane)|0.51
+(dodec-1-ene)-added poly(hydrogenmethylsiloxane/dimethylsiloxane)|0.27
+(tetradec-1-ene)-added poly(hydrogenmethylsiloxane/dimethylsiloxane)|0.27
+(hexadec-1-ene)-added poly(hydrogenmethylsiloxane/dimethylsiloxane)|2.8
+(octadec-1-ene)-added poly(hydrogenmethylsiloxane/dimethylsiloxane)|18
+poly((butane-1,4-diol)-alt-(dimethyl isophthalate);{sodium 3,5-bis(methoxycarbonyl)benzenesulfonate})|580
+polyisoprene|40
+poly(styrene-ran-acrylonitrile-ran-fumaronitrile)|55000
+poly[ethene-co-(methacrylic acid)]|60000
+poly[(acrylic acid)-co-(butyl acrylate)-co-(methyl methacrylate)]|0.17
+polystyrene-block-(hydrogenated polybutadiene)-block-polystyrene|11000
+poly[(methyl methacrylate)-co-(butyl acrylate)-co-(acrylic acid)]-graft-poly(p-hydroxybenzoic acid)|0.08
+poly[(acrylic acid)-co-(ethyl acrylate)-co-(methyl methacrylate)]|0.17
+poly[(methyl methacrylate)-co-(ethyl acrylate)-co-(acrylic acid)]-graft-poly(p-hydroxybenzoic acid)|0.081
+poly{[(butane-1,4-diol)-alt-(succinic acid)]-co-[(butane-1,4-diol)-alt-(adipic acid)]-co-[(ethylene glycol)-alt-(succinic acid)]-co-[(ethylene glycol)-alt-(adipic acid)]}|9000
+poly[(2,2'-oxydiethanol)-alt-(isophthalic acid;terephthalic acid)]|200
+poly[(N-phenyl maleimide)-co-styrene-co-(methyl methacrylate)]|99000
+polystyrene-block-polybutadiene-block-polystyrene|18000
+polystyrene-block-polybutadiene-block-polystyrene|15500
+polystyrene-block-polyisoprene-block-polystyrene|6590
+poly[dimethylsiloxane/(methyl)(pentyloxy)siloxane]|0.09
+poly(dimethylsiloxane/{[5-(ethoxycarbonyl)pentyl]oxy}(methyl)siloxane)|0.146
+2-ethoxyethanol-functionalyzed poly[octamethylcyclotetrasiloxane-co-(methyl hydrogen siloxane)]|0.068
+poly{dimethylsiloxane/[3-(dimethylamino)propoxy](methyl)siloxane}|0.0692
+poly[(epsilon-caprolactone)-co-(D,L-lactide)]|1
+polystyrene-poly(ethene-co-propene)-polystyrene|0.32
+cellulose acetate|27000
+poly[ethene-co-propene-co-(1,7-octadiene)]|42000
+poly[propene-co-(1,7-octadiene)]|21000
+poly(ethylene/norbornane-2,3-diyl)|3200
+poly[(tris{4-[(trifluorovinyl)oxy]phenyl}ethane)-ran-{4,4'-bis[(trifluorovinyl)oxy]biphenyl}]|0.1
+poly[(tris{4-[(trifluorovinyl)oxy]phenyl}ethane)-ran-(2,2-bis{4-[(trifluorovinyl)oxy]phenyl}-1,1,1,3,3,3-hexafluoropropane)]|6.8
+oly((butyl acrylate)-co-{2-[3-(6-methyl-4-oxo-1H-pyrimidin-2-yl)ureylene]ethyl methacrylate})|130
+poly[1-phenylethylene/1-cyanoethylene/1-(benzoxazol-2-yl)ethylene]|300000
+poly[oxy-1,4-phenylenecarbonyl/oxy-1,4-phenyleneoxyoctanedioyl/oxy-1,4-phenyleneoxydecanedioyl]|3
+poly(butane-1,4-diyl/1-ethylethylene/1-phenylethylene/1-{x-[(sodiooxy)sulfonyl]phenyl}ethylene)|6000000
+poly[ethene-co-(5-ethylidenenorborn-2-ene)]|33
+poly(prop-1-ene)-graft-poly(diethyl maleate)|480
+poly[1-(methoxycarbonyl)-1-methylethylene]-poly[1-(tert-butoxycarbonyl)ethylene]-poly[1-(methoxycarbonyl)-1-methylethylene]|0.11
+poly[poly(oxyethylene)-oxy{5-[(lithiooxy)sulfonyl]isophthaloyl}]|100000
+poly[poly(oxyethylene)-oxy{5-[(sodiooxy)sulfonyl]isophthaloyl}]|100000
+poly[poly(oxyethylene)-oxy{5-[(cesiooxy)sulfonyl]isophthaloyl}]|100000
+polyethene-graft-poly(acrylic acid)]|24300
+poly(acrylonitrile-ran-styrene)|1640
+poly[ethene-ran-(oct-1-ene)]|700
+poly[ethene-ran-(prop-1-ene)]|5770000
+poly[ethene-ran-(vinyl acetate)]|16000
+polyethene-graft-poly(maleic anhydride)|1670
+poly(styrene-ran-butadiene)|2600
+polystyrene-block-poly(methyl methacrylate)|13900
+poly[(4-hydroxybenzoic acid)-ran-(6-hydroxy-2-naphthoic acid)]|84.8
+poly[ethylene-ran-(but-1-ene)]|19000
+poly[ethylene-ran-(hex-1-ene)]|14000
+poly[ethene-ran-(methyl acrylate)]|1300
+polyethylene-graft-poly(butyl acrylate)|18600
+poly[propylene-graft-(maleic anhydride)]|30
+poly(butadiene-ran-styrene)|25000
+polybutadiene|57500
+poly[oxy(difluoromethylene)/oxy(1,1,2,2-tetrafluoroethylene)]|0.102
+poly{[poly(ethylene terephthalate)]-ran-(p-hydroxybenzoic acid)}|400
+poly[(6-aminocaproic acid)-ran-(hexamethylene azelamide)]|280
+poly{dichlorodimethylsilane-ran-[dichloro(methyl)(phenyl)silane]}|1.2
+chlorinated polyethylene|640000
+poly[ethene-ran-(dec-1-ene)]|800
+poly{1-(methoxycarbonyl)-1-methylethylene/1-methyl-1-[(2-pyridylmethyl)carbamoyl]ethylene}|1600
+poly{oxypropane-1,3-diyloxy[5-(sodiooxysulfonyl)isophthaloyl]/oxypropane-1,3-diyloxyterephthaloyl}|31
+poly(1-methylethylene/1-phenethylethylene)|1000
+poly[1-(4-ethylphenethyl)ethylene/1-{4-[2-poly(2-methylethylene)ethyl]phenethyl}ethylene/1-methylethylene]|3890
+poly[oxyethyleneoxy(5-sulfoisophthaloyl)/oxyethyleneoxyterephthaloyl]|68
+poly{1-(butoxycarbonyl)-1-methylethylene/1-[2-(N,N-dimethylamino)ethoxycarbonyl]-1-methylethylene/1-(methoxycarbonyl)-1-methylethylene}|90000
+poly[1-(acetyloxy)ethylene/1-hydroxyethylene/(2-propyl-1,3-dioxane-4,6-diyl)methylene]|14
+poly[1-methylethylene/1-(4-vinylphenethyl)ethylene]|1000
+poly{1-methylethylene/1-[2-(4-{2-[poly(1-methylethane-2,1-diyl)]ethyl}phenyl)ethyl]ethylene/1-(4-vinylphenethyl)ethylene}|3890
+poly(1-phenylethylene)-methylsilanediyl-poly(1-phenylethylene)|5000
+poly(1-phenylethylene)-(3-cyanopropyl)(methyl)silandiyl-poly(1-phenylethylene)|200000
+poly(oxynaphthalene-2,6-diylcarbonyl/oxy-1,4-phenyleneiminoterephthaloyl/oxy-1,4-phenyleneimino/terephthaloyl)|130
+poly[poly(oxybutanedioyloxybutane-1,4-diyl)-oxycarbonylimino(4-methyl-1,3-phenylene)iminocarbonyloxybutane-1,4-diyl]|700
+poly[(E)-but-1-ene-1,4-diyl/(Z)-but-1-ene-1,4-diyl/3-(2,5-dioxotetrahydrofuran-3-yl)but-1-ene-1,4-diyl/1-vinylethylene]|50
+poly{1-(ethoxycarbonyl)ethylene/1-(methoxycarbonyl)-1-methylethylene/1-methyl-1-[2-(trimethylammonio)ethoxycarbonyl]ethylene}|80000
+poly(ethylene/1-methylethylene)-poly[1-(3-isocyanato-4-methylanilinocarbonyloxymethyl)ethylene]|2500000
+poly{[(ethylene)imino]ethylene/iminoethylene}-poly[imino(1-oxododecane-12,1-diyl)]|25
+poly(1-methylethylene)-poly[1-(methoxycarbonyl)-1-methylethylene]|120
+cyclo-polybutadiene|15000
