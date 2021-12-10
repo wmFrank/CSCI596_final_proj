@@ -45,4 +45,5 @@ This is a training workflow demo using dataset tox21 on CARC cluster.
 
 ---
 
-To be continued...
+## Scripts
+- There are useful scripts in *scripts* folder, including splitting training data and test data, processing prediction files, and visualizing the results.
