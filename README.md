@@ -18,3 +18,14 @@ paper link: [https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237](https://pubs.acs
 ![D-MPNN](D-MPNN.jpeg)
 
 - Visualize the result via t-SNE to reveal some relationships between polymers.
+
+## 4.Result
+### Property Prediction
+- We applied D-MPNN to HIV dataset (10000 training samples), which is about the property of inhibition of HIV replication, and we tried four different training methods for this classification task. The AUC of different training methods is shown below:
+![AUC for different  training methods](results/auc.png)
+
+### Visualization
+- We visualized the final prediction of every molecule in test dataset (1000 samples) via t-SNE:
+![pred_result](results/pred.png)
+- We also visualized it with molecular representation:
+![pred_mole_result](results/pred_mole.png)
