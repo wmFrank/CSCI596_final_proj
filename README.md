@@ -1,4 +1,4 @@
-# CSCI596_final_proj
+# Molecular Property Prediction using D-MPNN
 Ming Wang, Zhengxie Hu
 
 ## 1.Introduction
